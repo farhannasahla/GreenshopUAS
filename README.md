@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GreenShop - Sustainable Application Development
 
 ## 1. Deskripsi Project
@@ -264,3 +265,6 @@ Categories (1) ---- (N) Products
 # 12. Kesimpulan
 
 Penerapan Eager Loading, Caching, Database Indexing, Select Statement, dan Pagination berhasil meningkatkan performa aplikasi GreenShop secara signifikan. Jumlah query berhasil dikurangi dari 103 query menjadi 3 query pada implementasi caching. Optimasi tersebut mengurangi beban database, mempercepat response time, dan mendukung prinsip Sustainable Application Development karena penggunaan resource server menjadi lebih efisien.
+=======
+# GreenshopUAS
+>>>>>>> b52fb3bff85705d48b9e77b14ed1a3f2abc67ef2
